@@ -3,7 +3,12 @@
 @import 'header.css';
 @import 'friends.css';
 @import 'profile.css';
+@import 'nav.css';
+@import 'search-bar.css';
+@import 'friends.css';
 
 body {
   font-family: 'Open Sans', sans-serif;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
